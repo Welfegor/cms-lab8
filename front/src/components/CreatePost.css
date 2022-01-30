@@ -1,0 +1,101 @@
+.Create-post-wrapper {
+    padding: 4px 16px;
+    width: 598px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.Create-post-avatar {
+    padding-top: 4px;
+    margin-right: 12px;
+}
+
+.Create-post-avatar-link-img {
+    border-radius: 9999px;
+}
+
+.Create-post-editor {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Create-post-editor-input {
+    box-sizing: border-box;
+    min-height: 56px;
+    /* border-bottom: 1px solid rgb(239, 243, 244); */
+    padding: 12px 0;
+}
+
+.Create-post-editor-input-placeholder {
+    padding: 2px 0;
+}
+
+.Create-post-editor-input-placeholder-text {
+    font-size: 20px;
+    color: #657786;
+}
+
+.Create-post-editor-manage {
+    display: flex;
+    height: 48px;
+    justify-content: space-between;
+    margin: 0 2px;
+}
+
+.Create-post-editor-manage-features {
+    margin-left: -8px;
+    margin-top: 12px;
+    display: flex;
+    width: auto;
+}
+
+.Create-post-editor-manage-features-link {
+    padding: 8px;
+    border-radius: 30px;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.Create-post-editor-manage-features-link:hover {
+    background-color: #e8f5fd;
+}
+
+.Create-post-editor-manage-features-link-img {
+    width: 20px;
+    height: 20px;
+    fill: rgb(29, 155, 240);
+}
+
+.Create-post-editor-manage-button {
+    display: flex;
+    /* background-color: rgb(29, 155, 240); */
+    background-color: #8ecdf8;
+    border-radius: 9999px;
+    margin: 12px 0 0 12px;
+}
+
+.Create-post-editor-manage-button-link {
+    border-radius: 9999px;
+    display: flex;
+    padding: 0 16px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.Create-post-editor-manage-button-link:hover {
+    background-color: #1a8cd8;
+}
+
+.Create-post-editor-manage-button-text-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Create-post-editor-manage-button-text {
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}

@@ -1,0 +1,93 @@
+.Post-wrapper {
+    width: 598px;
+    padding: 12px 16px 0 16px;
+    display: flex;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgb(239, 243, 244);
+}
+
+.Post-avatar {
+    margin-right: 12px;
+}
+
+.Post-avatar-link-img {
+    border-radius: 9999px;
+    width: 48px;
+    height: 48px;
+}
+
+.Post-body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 12px;
+}
+
+.Post-body-header-user {
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Post-body-header-user-settings-img {
+    width: 20px;
+    height: 20px;
+    fill: #657786;
+}
+
+.Post-body-header-user-info {
+    font-size: 15px;
+}
+
+.Post-body-header-user-info-username {
+    font-weight: 700;
+}
+
+.Post-body-header-user-info-usertag {
+    color: rgb(83, 100, 113);
+}
+
+.Post-body-header-user-info-posttime {
+    color: rgb(83, 100, 113);
+}
+
+.Post-body-main {
+    font-size: 15px;
+}
+
+.Post-body-main-img {
+    width: 504px;
+    height: auto;
+    border-radius: 16px;
+    margin-top: 15px;
+
+}
+
+.Post-interact {
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    margin: 12px 0 0 0;
+    width: 425px;
+}
+
+.Post-interact-features {
+    display: flex;
+}
+
+.Post-interact-features-img {
+    width: 20px;
+    height: 20px;
+    fill: #657786;
+}
+
+
+.like2 {
+    fill: red;
+}
+
+.Post-interact-features-text {
+    padding: 0 12px;
+    font-size: 13px;
+    color: #657786;
+}

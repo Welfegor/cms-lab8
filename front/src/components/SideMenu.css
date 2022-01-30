@@ -1,0 +1,96 @@
+.Side-menu-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 251px;
+}
+
+.Side-menu-list-item {
+    display: flex;
+    padding: 4px 0;
+    text-decoration: none;
+    color: #000;
+}
+
+.Side-menu-list-item-logo-wrapper {
+    height: 26px;
+    padding: 12px;
+    border-radius: 30px;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.Side-menu-list-item-logo-wrapper:hover {
+    background-color: #e8f5fd;
+}
+
+.Side-menu-list-item-wrapper {
+    height: 26px;
+    display: flex;
+    padding: 12px;
+    border-radius: 30px;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.Side-menu-list-item:hover .Side-menu-list-item-wrapper {
+    background-color: #e7e7e8;
+}
+
+.Side-menu-list-item:first-child {
+    fill: rgb(29, 155, 240);
+}
+
+.test1 {
+    width: 30px;
+    height: auto;
+}
+
+.Side-menu-list-item-img {
+    width: 30px;
+    height: auto;
+}
+
+.Side-menu-list-item-text {
+    font-family: system-ui, 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0 20px;
+}
+
+.Side-menu-list-item-text-active {
+    font-weight: 700;
+}
+
+
+.Side-menu-list-item-button {
+    margin: 16px 0;
+    background-color: rgb(29, 155, 240);
+    border-radius: 9999px;
+}
+
+.Side-menu-list-item-button-link {
+    border-radius: 9999px;
+    display: flex;
+    padding: 0 32px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.Side-menu-list-item-button-link:hover {
+    background-color: #1a8cd8;
+}
+
+.Side-menu-list-item-button-text-wrapper {
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.Side-menu-list-item-button-text {
+    color: #fff;
+    font-weight: 700;
+    font-size: 17px;
+}

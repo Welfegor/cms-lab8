@@ -1,0 +1,83 @@
+.Register-wrapper {
+    height: 100vh;
+    display: flex;
+}
+
+.Register-left {
+    background-color: #333;
+    background: url(https://abs.twimg.com/sticky/illustrations/lohp_en_1302x955.png) no-repeat center top / cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.Register-left-img {
+    fill: #fff;
+    height: 350px;
+    width: auto;
+}
+
+.Register-right {
+    padding: 16px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.Register-right-content {
+    padding: 20px;
+    width: 100%;
+}
+
+.Register-right-icon {
+    fill: rgb(29, 155, 240);
+    height: 40px;
+    width: auto;
+}
+
+.Register-right-title {
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.Register-right-text {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.Register-right-form {
+    margin-top: 32px;
+}
+
+.Register-right-form > input, .Register-right-form > button {
+    display: block;
+    width: 75%;
+    margin-bottom: 8px;
+    border: 1px solid rgb(207, 217, 222);
+    border-radius: 999px;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.Register-right-form > button {
+    background-color: rgb(29, 155, 240);
+    color: #fff;
+}
+
+.Register-right-form > button:hover {
+    cursor: pointer;
+}
+
+.Register-right-desc {
+    color: rgb(15, 20, 25);
+    font-size: 16px;
+    padding-left: 32px;
+}
+
+.Register-right-desc-link {
+    color: rgb(29, 155, 240);
+}

@@ -1,0 +1,14 @@
+.explore-search-wrapper {
+    width: 598px;
+    height: 53px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    border-bottom: 1px solid rgb(239, 243, 244);
+    box-sizing: border-box;
+}
+
+.explore-searchform-wrapper {
+    width: 500px;
+}

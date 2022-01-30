@@ -1,0 +1,31 @@
+.Policy-wrapper {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px;
+    margin-top: 16px;
+}
+
+.Policy-wrapper a, .Policy-wrapper span {
+    color: rgb(83, 100, 113);
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.Policy-advertisement-text {
+    padding-right: 12px;
+}
+
+.Policy-advertisement {
+    display: flex;
+    align-items: center;
+}
+
+.Policy-advertisement-dot {
+    padding-top: 2px;
+    padding-left: 2px;
+    height: 15px;
+    width: 15px;
+    fill: rgb(83, 100, 113);
+}
+
