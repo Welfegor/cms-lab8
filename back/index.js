@@ -8,10 +8,12 @@ import trendRouter from "./Routers/trendRouter.js";
 import searchRouter from "./Routers/searchRouter.js";
 
 const app = express();
+app.use(cors());
 app.use(express.json());
+
 const urlencodedParser = express.urlencoded({extended: false});
 
-const port = '8000';
+const port = '3000';
 
 //TODO: Заменить ссылку на свою
 //'mongodb+srv://ЛОГИН:ПАРОЛЬ@АДРЕСС_МОНГОДБ.NET/НАЗВАНИЕ_БАЗЫ?retryWrites=true&w=majority'
