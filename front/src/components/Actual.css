@@ -1,0 +1,76 @@
+.Actual-wrapper {
+    border-radius: 16px;
+}
+
+.Actualbg {
+    background-color: #f7f9f9;
+}
+
+.Actual-header {
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Actual-header-title {
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.setbutton-show {
+    width: 20px;
+    height: 20px;
+    padding: 0 7px;
+}
+
+.setbutton-hidden {
+    width: 0;
+    height: 0;
+}
+
+.Actual-more {
+    padding: 16px;
+}
+
+.Actual-more-text {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+}
+
+.Actual-content-topic {
+    padding: 12px 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Actual-content-topic-theme {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Actual-content-topic-theme-text {
+    color: rgb(83, 100, 113);
+    font-size: 13px;
+}
+
+.Actual-content-topic-theme-img {
+    width: 18px;
+    height: 18px;
+    fill: #657786;
+}
+
+.Actual-content-topic-name {
+    padding-top: 2px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.Actual-content-topic-tweets {
+    margin-top: 4px;
+    color: rgb(83, 100, 113);
+    font-size: 13px;   
+}
