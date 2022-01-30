@@ -1,0 +1,54 @@
+[
+    {
+        "avatar": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg",
+        "comments": "2",
+        "reposts": "3",
+        "likes": "4",
+        "username": "Marat",
+        "usertag": "welfegor",
+        "posttime": "23 окт.",
+        "mylike": "like2",
+        "content": "Climate Scientist Peter Kalmus speaking at GAI 2021, explains what everyday people like you and me can do to decrease our carbon footprint.",
+        "contentPhoto": "https://pbs.twimg.com/media/FFqGGh_X0AQ9nIL?format=jpg&name=small",
+        "like": "true"
+    },
+    {
+        "avatar": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg",
+        "comments": "20",
+        "reposts": "34",
+        "likes": "443",
+        "username": "arat",
+        "usertag": "w",
+        "posttime": "29 окт.",
+        "mylike": "like1",
+        "content": "ople like you and me can do to decrease our carbon footprint.",
+        "contentPhoto": "",
+        "like": "false"
+    },
+    {
+        "avatar": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg",
+        "comments": "2",
+        "reposts": "3",
+        "likes": "4",
+        "username": "Marat",
+        "usertag": "welfegor",
+        "posttime": "23 окт.",
+        "mylike": "like1",
+        "content": "Climate Scientist Peter Kalmus speaking at GAI 2021, explains what everyday people like you and me can do to decrease our carbon footprint.",
+        "contentPhoto": "https://pbs.twimg.com/media/FFqGGh_X0AQ9nIL?format=jpg&name=small",
+        "like": "false"
+    },
+    {
+        "avatar": "https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg",
+        "comments": "20",
+        "reposts": "34",
+        "likes": "443",
+        "username": "arat",
+        "usertag": "w",
+        "posttime": "29 окт.",
+        "mylike": "like2",
+        "content": "ople like you and me can do to decrease our carbon footprint.",
+        "contentPhoto": "",
+        "like": "true"
+    }
+]
